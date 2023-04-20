@@ -1,0 +1,12 @@
+[LOGIN]
+email = seu email
+senha = sua senha
+
+[AJUSTES]
+valor_entrada = 5
+tipo = digital
+
+[MARTINGALE]
+usar_martingale = S
+niveis_martingale = 2
+fator_martingale = 2

@@ -1,0 +1,15 @@
+[LOGIN]
+email = seu email
+senha = sua senha
+
+[AJUSTES]
+valor_entrada = 5
+tipo = binarias
+stop_win = 10
+stop_loss = 10
+
+[MARTINGALE]
+usar_martingale = S
+niveis_martingale = 2
+fator_martingale = 2
+

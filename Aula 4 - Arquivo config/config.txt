@@ -1,0 +1,7 @@
+[LOGIN]
+email = seuemail
+senha = suasenha
+
+[AJUSTES]
+valor_entrada = 5
+tipo = binarias
