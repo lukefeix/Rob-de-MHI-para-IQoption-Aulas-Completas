@@ -15,40 +15,37 @@
 
 ## 💻 Sobre o projeto
 
-Este Canal tem o objetivo de ensinar programação em Python, de inicio estarei ensinando a criar Robôs de investimento para a corretora IQOption
+Aulas para criação de um robô de MHI na IQOption, Você pode acompanhar as aulas no <a href="https://www.youtube.com/@lucascode"  target="_blank" >Canal Lucas Code</a>.
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- [x] Aula 1 - Apresentação
-- [x] Aula 2 - Função de Login
+- [x] Aula 1 - Download API e VSCode - [ACESSE A AULA](https://youtu.be/swC5XtEuQeE)
+- [x] Aula 2 - Função de Login - [ACESSE A AULA ](https://youtu.be/yEXjjLXlHCc)
+- [x] Aula 3 - Abrir ordens e Checar Resultado - [ACESSE A AULA ](https://youtu.be/lym5cCLZZOE)
+- [x] Aula 4 - Criar arquivo de Configuração- [ACESSE A AULA ](https://youtu.be/7Kcvsv3g1ck)
+- [x] Aula 5 - Estratégia MHI - [ACESSE A AULA ](https://youtu.be/fGfczMHEIdA)
+- [x] Aula 6 - Adicionando Martingale - [ACESSE A AULA ](https://youtu.be/GbhrZQGGfrk)
+- [x] Aula 7 - Adicionando Stopwin e Loss - [ACESSE A AULA ](https://youtu.be/eplLM2oMrx8)
+- [x] Aula 8 - Adicionando Soros - [ACESSE A AULA ](https://youtu.be/AuBOKiNnNrs)
+- [x] CONTINUA...
 
 
 ---
 
 ## 🚀 Como executar o projeto
 
-Este projeto é divido em três partes:
-1. Backend (pasta server) 
-2. Frontend (pasta web)
-3. Mobile (pasta mobile)
-
-💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
+1. Acesse a aula 1 para baixar os programas e a API necessária.
+2. Baixe a aula desejada aqui no GitHub
+3. Mantenha o arquivo de configuração, o script python e a pasta da api, juntos no mesmo diretório.
+4. Para rodar a aplicação basta colocar no cmd o caminho do seu diretório principal
+5. Colocar no cmd o comando python nomedoarquivo.py
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Antes de começar, você vai precisar baixar a api da IQOption disponível no [Vídeo](https://youtu.be/swC5XtEuQeE).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-
-```bash
-
-# Clone este repositório
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
-
-
-```
 
 ---
 
@@ -57,6 +54,7 @@ $ git clone git@github.com:tgmarinho/README-ecoleta.git
 As seguintes ferramentas foram usadas na construção do projeto:
 
 Python
+<br>
 API
 
 
@@ -70,11 +68,15 @@ API
  <sub><b>Lucas Feix</b></sub></a> <a href="https://www.linkedin.com/in/lucasfeix/" title="Programador Python Full Stack">🚀</a>
  <br />
 
+### Esta gostando do conteúdo?
+#### Doação:
+Será de grande ajuda um valor qualquer no pix:
+<b>lukefeix@gmail.com</b>
 
 ---
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto esta sobe a licença [GNU](./LICENSE).
 
 Feito com ❤️ por Lucas Feix 👋🏽 [Entre em contato!](https://www.linkedin.com/in/lucasfeix/)
