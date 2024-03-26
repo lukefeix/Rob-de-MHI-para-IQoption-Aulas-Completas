@@ -1,0 +1,22 @@
+[LOGIN]
+email = 
+senha = 
+
+
+[AJUSTES]
+valor_entrada = 5
+tipo = automatico
+stop_win = 100
+stop_loss = 100
+analise_medias = N
+velas_medias = 10
+
+[MARTINGALE]
+usar_martingale = S
+niveis_martingale = 2
+fator_martingale = 2
+
+[SOROS]
+usar_soros = N
+niveis_soros = 2
+
